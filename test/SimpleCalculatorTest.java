@@ -1,8 +1,11 @@
+//import org.junit.Test;
+//import org.junit.jupiter.api.DisplayName;
+//import static org.junit.jupiter.api.Assertions.*;
+
 import org.junit.Test;
 import org.junit.jupiter.api.DisplayName;
 
-
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class SimpleCalculatorTest {
 
